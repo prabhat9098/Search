@@ -1,4 +1,3 @@
-// src/components/SearchBox.js
 import React, { useState, useEffect } from 'react';
 
 const SearchBox = ({ onSearch }) => {
